@@ -1,0 +1,11 @@
+FCUNIST/
+__pycache__/
+.env
+best_model.pth
+download.zip
+fcunist_model.pth
+training_history.png
+leaderboard_client.py
+test_predictions.json
+
+.DS_Store
